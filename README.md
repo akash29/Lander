@@ -23,4 +23,4 @@ Following is an example of the configuration in IDE - C:\Users\prath\Anaconda3\p
 4)Plot_Utils.py is a utils file to generate any rewards plot.
 
 Following result from test:
-![Alt Text](https://j.gifs.com/59MoOB.gif)
+![Alt Text](https://media.giphy.com/media/2xDDprBWjyMaBZMMcc/giphy.gif)
